@@ -1,3 +1,8 @@
+###############################################
+# Author : Musa Azeem
+# Created: 2025-06-29
+###############################################
+
 from lib.across_window_utils import (
     get_combined_phi_psi_dist,
     get_xrays_window,

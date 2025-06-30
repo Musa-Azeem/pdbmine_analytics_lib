@@ -1,3 +1,8 @@
+###############################################
+# Author : Musa Azeem
+# Created: 2025-06-29
+###############################################
+
 from Bio import SeqIO
 import requests
 from pathlib import Path

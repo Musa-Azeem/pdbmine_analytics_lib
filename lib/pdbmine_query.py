@@ -1,3 +1,8 @@
+###############################################
+# Author : Musa Azeem
+# Created: 2025-06-29
+###############################################
+
 from lib.modules import query_and_process_pdbmine
 from pathlib import Path
 from lib.utils import get_seq_funcs, get_subseq_func

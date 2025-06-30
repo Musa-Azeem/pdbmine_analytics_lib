@@ -1,3 +1,8 @@
+###############################################
+# Author : Musa Azeem
+# Created: 2025-06-29
+###############################################
+
 from pathlib import Path
 import numpy as np
 from lib import PDBMineQuery

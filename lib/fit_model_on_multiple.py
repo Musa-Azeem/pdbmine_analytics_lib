@@ -1,3 +1,8 @@
+###############################################
+# Author : Musa Azeem
+# Created: 2025-06-29
+###############################################
+
 from lib import DihedralAdherence
 import pandas as pd
 import statsmodels.api as sm

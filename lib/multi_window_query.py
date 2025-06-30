@@ -1,3 +1,8 @@
+###############################################
+# Author : Musa Azeem
+# Created: 2025-06-29
+###############################################
+
 from pathlib import Path
 from lib.retrieve_data import retrieve_pdb_file, retrieve_alphafold_prediction
 from lib.utils import get_seq_funcs
